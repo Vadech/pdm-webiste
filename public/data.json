@@ -1,0 +1,495 @@
+[
+    {
+        "name": "Thais-PMS",
+        "category": "PMS",
+        "symbolSize": 20,
+        "synapse": true,
+        "links": []
+    },
+    {
+        "name": "Vega",
+        "category": "PMS",
+        "symbolSize": 20,
+        "links": []
+    },
+    {
+        "name": "Fiducial",
+        "category": "PMS",
+        "symbolSize": 20,
+        "links": []
+    },
+    {
+        "name": "Misterbooking",
+        "category": "PMS",
+        "symbolSize": 20,
+        "links": []
+    },
+    {
+        "name": "Eole",
+        "category": "PMS",
+        "symbolSize": 20,
+        "links": []
+    },
+    {
+        "name": "Mews",
+        "category": "PMS",
+        "symbolSize": 20,
+        "links": []
+    },
+    {
+        "name": "Asterio",
+        "category": "PMS",
+        "symbolSize": 20,
+        "links": []
+    },
+    {
+        "name": "Winhotel",
+        "category": "PMS",
+        "symbolSize": 20,
+        "links": []
+    },
+    {
+        "name": "Medialog",
+        "category": "PMS",
+        "symbolSize": 20,
+        "links": []
+    },
+    {
+        "name": "Hotsoft",
+        "category": "PMS",
+        "symbolSize": 20,
+        "links": []
+    },
+    {
+        "name": "CBP",
+        "category": "PMS",
+        "symbolSize": 20,
+        "links": []
+    },
+    {
+        "name": "5STELLE",
+        "category": "PMS",
+        "symbolSize": 20,
+        "links": []
+    },
+    {
+        "name": "Protel",
+        "category": "PMS",
+        "symbolSize": 20,
+        "links": []
+    },
+    {
+        "name": "Infotik",
+        "category": "PMS",
+        "symbolSize": 20,
+        "links": []
+    },
+    {
+        "name": "Chloe",
+        "category": "PMS",
+        "symbolSize": 20,
+        "links": []
+    },
+    {
+        "name": "Apaleo/TopSys",
+        "category": "PMS",
+        "symbolSize": 20,
+        "synapse": true,
+        "links": []
+    },
+    {
+        "name": "Orchectra",
+        "category": "PMS",
+        "symbolSize": 20,
+        "links": []
+    },
+    {
+        "name": "Jazhotel",
+        "category": "PMS",
+        "symbolSize": 20,
+        "links": []
+    },
+    {
+        "name": "Geho",
+        "category": "PMS",
+        "symbolSize": 20,
+        "links": []
+    },
+    {
+        "name": "CHR365",
+        "category": "PMS",
+        "symbolSize": 20,
+        "links": []
+    },
+    {
+        "name": "HO",
+        "category": "PMS",
+        "symbolSize": 20,
+        "links": []
+    },
+    {
+        "name": "TravelClick",
+        "symbolSize": 20,
+        "category": "CM",
+        "links": [
+            "Thais-PMS",
+            "Mews",
+            "Misterbooking"
+        ]
+    },
+    {
+        "name": "Roomcloud",
+        "symbolSize": 20,
+        "category": "CM",
+        "synapse": true,
+        "links": [
+            "Thais-PMS",
+            "Apaleo/TopSys",
+            "Mews",
+            "Missbooking"
+        ]
+    },
+    {
+        "name": "Dedge",
+        "symbolSize": 20,
+        "category": "CM",
+        "links": [
+            "Thais-PMS",
+            "Mews",
+            "Misterbooking"
+        ]
+    },
+    {
+        "name": "Reservit",
+        "symbolSize": 20,
+        "category": "CM",
+        "links": [
+            "Thais-PMS",
+            "Mews",
+            "Misterbooking"
+        ]
+    },
+    {
+        "name": "Siteminder",
+        "symbolSize": 20,
+        "category": "CM",
+        "links": [
+            "Thais-PMS",
+            "Mews",
+            "Misterbooking"
+        ]
+    },
+    {
+        "name": "DayUse",
+        "symbolSize": 20,
+        "category": "CM",
+        "links": [
+            "Thais-PMS",
+            "Mews"
+        ]
+    },
+    {
+        "name": "GMS",
+        "symbolSize": 20,
+        "category": "CRM",
+        "links": [
+            "Thais-PMS",
+            "Mews",
+            "Misterbooking"
+        ]
+    },
+    {
+        "name": "Qualitelis",
+        "symbolSize": 20,
+        "category": "CRM",
+        "links": [
+            "Thais-PMS",
+            "Mews",
+            "Misterbooking",
+            "Asterio",
+            "Medialog",
+            "Protel",
+            "5Steelle",
+            "Chloe"
+        ]
+    },
+    {
+        "name": "Bowo",
+        "symbolSize": 20,
+        "category": "CRM",
+        "synapse": true,
+        "links": [
+            "Thais-PMS",
+            "Apaleo/TopSys",
+            "Mews",
+            "Misterbooking",
+            "Asterio",
+            "Medialog",
+            "Protel",
+            "5Steelle",
+            "Chloe"
+        ]
+    },
+    {
+        "name": "XP",
+        "symbolSize": 20,
+        "category": "CRM",
+        "synapse": true,
+        "links": [
+            "Thais-PMS",
+            "Apaleo/TopSys",
+            "Mews",
+            "Misterbooking",
+            "Asterio",
+            "Medialog",
+            "Protel",
+            "5Steelle",
+            "Chloe"
+        ]
+    },
+    {
+        "name": "Customer Alliance",
+        "symbolSize": 20,
+        "category": "CRM",
+        "links": [
+            "Thais-PMS",
+            "Mews",
+            "Misterbooking",
+            "Asterio",
+            "Medialog",
+            "Protel",
+            "5Steelle",
+            "Chloe"
+        ]
+    },
+    {
+        "name": "LoungeUp",
+        "symbolSize": 20,
+        "category": "CRM",
+        "synapse": true,
+        "links": [
+            "Thais-PMS",
+            "Apaleo/TopSys",
+            "Mews",
+            "Misterbooking",
+            "Asterio",
+            "Medialog",
+            "Protel",
+            "5Steelle",
+            "Chloe"
+        ]
+    },
+    {
+        "name": "RevBell",
+        "symbolSize": 20,
+        "category": "RMS",
+        "synapse": true,
+        "links": [
+            "Thais-PMS",
+            "Apaleo/TopSys",
+            "Mews",
+            "Asterio"
+        ]
+    },
+    {
+        "name": "EAccess",
+        "symbolSize": 20,
+        "category": "RMS",
+        "links": [
+            "Thais-PMS",
+            "Mews",
+            "Asterio"
+        ]
+    },
+    {
+        "name": "DoYield",
+        "symbolSize": 20,
+        "category": "RMS",
+        "links": [
+            "Thais-PMS",
+            "Mews",
+            "Asterio"
+        ]
+    },
+    {
+        "name": "1check",
+        "symbolSize": 20,
+        "category": "Housekeeping",
+        "synapse": true,
+        "links": [
+            "Thais-PMS",
+            "Apaleo/TopSys",
+            "Mews"
+        ]
+    },
+    {
+        "name": "Flexkeeping",
+        "symbolSize": 20,
+        "category": "Housekeeping",
+        "links": [
+            "Thais-PMS",
+            "Mews"
+        ]
+    },
+    {
+        "name": "Peek'in",
+        "symbolSize": 20,
+        "category": "Housekeeping",
+        "synapse": true,
+        "links": [
+            "Thais-PMS",
+            "Apaleo/TopSys",
+            "Mews"
+        ]
+    },
+    {
+        "name": "HiJiffy",
+        "symbolSize": 20,
+        "category": "ChatBot",
+        "synapse": true,
+        "links": [
+            "Thais-PMS",
+            "Mews"
+        ]
+    },
+    {
+        "name": "Quicktext",
+        "symbolSize": 20,
+        "category": "ChatBot",
+        "links": [
+            "Thais-PMS",
+            "Mews"
+        ]
+    },
+    {
+        "name": "Quotelo",
+        "symbolSize": 20,
+        "category": "Sémainaire",
+        "links": [
+            "Thais-PMS",
+            "Mews"
+        ]
+    },
+    {
+        "name": "Groupcorner",
+        "symbolSize": 20,
+        "category": "Sémainaire",
+        "links": [
+            "Thais-PMS",
+            "Mews"
+        ]
+    },
+    {
+        "name": "BookingShake",
+        "symbolSize": 20,
+        "category": "Sémainaire",
+        "links": [
+            "Thais-PMS",
+            "Mews"
+        ]
+    },
+    {
+        "name": "Sesame",
+        "symbolSize": 20,
+        "category": "Serrures",
+        "synapse": true,
+        "links": [
+            "Thais-PMS",
+            "Apaleo/TopSys",
+            "Mews"
+        ]
+    },
+    {
+        "name": "Salto",
+        "symbolSize": 20,
+        "category": "Serrures",
+        "links": [
+            "Thais-PMS",
+            "Mews"
+        ]
+    },
+    {
+        "name": "Osmozis",
+        "symbolSize": 20,
+        "category": "Serrures",
+        "links": [
+            "Thais-PMS",
+            "Mews"
+        ]
+    },
+    {
+        "name": "Dormakaba",
+        "symbolSize": 20,
+        "category": "Serrures",
+        "links": [
+            "Thais-PMS",
+            "Mews"
+        ]
+    },
+    {
+        "name": "Onity",
+        "symbolSize": 20,
+        "category": "Serrures",
+        "links": [
+            "Thais-PMS",
+            "Mews"
+        ]
+    },
+    {
+        "name": "Flexipass",
+        "symbolSize": 20,
+        "category": "Serrures",
+        "links": [
+            "Thais-PMS",
+            "Mews"
+        ]
+    },
+    {
+        "name": "MMCreation",
+        "symbolSize": 20,
+        "category": "Marketing",
+        "synapse": true,
+        "links": [
+            "Thais-PMS",
+            "Apaleo/TopSys",
+            "Mews"
+        ]
+    },
+    {
+        "name": "WebCom",
+        "symbolSize": 20,
+        "category": "Marketing",
+        "links": [
+            "Thais-PMS",
+            "Mews"
+        ]
+    },
+    {
+        "name": "MyBeezBox",
+        "symbolSize": 20,
+        "category": "Marketing",
+        "synapse": true,
+        "links": [
+            "Thais-PMS",
+            "Apaleo/TopSys"
+        ]
+    },
+    {
+        "name": "Oaky",
+        "symbolSize": 20,
+        "category": "Marketing",
+        "links": [
+            "Thais-PMS",
+            "Mews"
+        ]
+    },
+    {
+        "name": "Utelys",
+        "symbolSize": 20,
+        "category": "Marketing",
+        "links": [
+            "Thais-PMS",
+            "Mews"
+        ]
+    }
+]
