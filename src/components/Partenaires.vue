@@ -172,9 +172,9 @@ export default {
                         force: {
                             initLayout: this.showLinks ? 'circular' : 'none',
                             edgeLength: 300,
-                            repulsion: 100,
+                            repulsion: 300,
                             gravity: .1,
-                            friction: .1,
+                            friction: .2,
                         },
                         animation: true,
                         animationDurationUpdate: 1000,
