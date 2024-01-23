@@ -102,14 +102,14 @@ export default {
                     "category": "group",
                     "symbolSize": 20,
                     "synapse": true,
-                    "links": ["The Originals"]
+                    "links": ["Chaîne"]
                 })
                 tmpData.push({
                     "name": "FID",
                     "category": "group",
                     "symbolSize": 20,
                     "synapse": true,
-                    "links": ["The Originals"]
+                    "links": ["Chaîne"]
                 })
             }
 
@@ -134,7 +134,7 @@ export default {
                     "links": PMSs
                 })
                 tmpData.push({
-                    "name": "The Originals",
+                    "name": "Chaîne",
                     "category": "group",
                     "symbolSize": 50,
                     "synapse": true,
@@ -142,7 +142,7 @@ export default {
                 })
             } else {
                 tmpData.push({
-                    "name": "The Originals",
+                    "name": "Chaîne",
                     "category": "group",
                     "symbolSize": 50,
                     "synapse": true,
