@@ -146,7 +146,7 @@ export default {
                     "category": "group",
                     "symbolSize": 50,
                     "synapse": true,
-                    "links": ["PMS", "CM", "TravelClick", "GMS"]
+                    "links": ["PMS", "CM", "CRM"]
                 })
             }
 
