@@ -13,6 +13,8 @@
   "dependencies": {
     "echarts": "^5.4.3",
     "element-plus": "^2.5.3",
+    "js-yaml": "^4.1.0",
+    "postman-to-openapi": "^3.0.1",
     "radash": "^11.0.0",
     "vue": "^3.3.11"
   },

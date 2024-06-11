@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Thaïs Hub Documentation</title>
+    <!-- needed for adaptive design -->
+    <meta charset="utf-8" />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700|Roboto:300,400,700" rel="stylesheet" />
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        .menu-content img {
+            padding: 2em;
+        }
+
+        .button {
+            border: 1px solid rgb(50, 50, 159);
+            color: rgb(50, 50, 159);
+            font-weight: normal;
+            margin-left: 0.5em;
+            padding: 4px 8px;
+            display: inline-block;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- <div id="logo" class="sc-fzppip logiML hidden">
+            <img src="/hub/logo-pds.svg" alt="Thaïs PMS" class="sc-fzpdyU kwcmeb">
+        </div> -->
+    <a id="pds-postman-collection" href="/hub/doc/pds.postman_collection.json" download class="button hidden">
+        Collection Postman
+    </a>
+
+    <div id="redoc-container"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/redoc@next/bundles/redoc.standalone.js"></script>
+    <script>
+        Redoc.init('/hub/doc/pds-openapi.yml', {}, document.getElementById('redoc-container'), function () {
+            // move postman btn
+            const postmanBtn = document.getElementById('pds-postman-collection')
+            document.querySelector('.api-info > p').appendChild(postmanBtn)
+            postmanBtn.classList.remove('hidden')
+
+            // logo
+            // const logo = document.getElementById('logo')
+            // document.querySelector('.menu-content').prepend(logo)
+            // logo.classList.remove('hidden')
+        })
+    </script>
+</body>
+
+</html>
